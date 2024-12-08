@@ -273,3 +273,5 @@ The content of this repository is bound by the following licenses:
 - The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories thereon are copyright © 2024 freeCodeCamp.org
 
 
+L e a r n i n g   G i t H u b   B a s i c s !  
+ 
